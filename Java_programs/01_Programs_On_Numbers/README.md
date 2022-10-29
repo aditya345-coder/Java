@@ -8,3 +8,8 @@
 8. Write a program to display multiplication table.
 9. Write a program to display multiplication tables.
 10. Write a program to check whether the given number is perfect number or not.
+11. Write a program to display range of perfect numbers.
+12. Write a program to check whether the given number is palindrome or not.
+13. Write a program to find the factorial of a given number.
+14. Write a program to find the factorial of a given range of numbers.
+15. Write a program to check the given number is strong or not.
