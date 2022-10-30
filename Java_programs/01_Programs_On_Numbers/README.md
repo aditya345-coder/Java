@@ -13,3 +13,6 @@
 13. Write a program to find the factorial of a given number.
 14. Write a program to find the factorial of a given range of numbers.
 15. Write a program to check the given number is strong or not.
+16. Write a program to find the range of strong numbers
+17. Write a program to display Fibonacci series of a number
+18. Write a program to display range of Fibonacci series of a number
